@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Akash
-![Akash's Photo](https://github.com/akashalamin10/akashalamin10/blob/main/assets/images/akash.jpg)
+![Akash's Photo](https://github.com/akashalamin10/github-config/blob/main/1.jpg)
 
 Welcome to my GitHub profile! Here's a quick overview about me:
 
