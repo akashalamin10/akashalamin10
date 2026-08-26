@@ -1,83 +1,45 @@
-# 👋 Hi, I’m Akash
-![Akash's Photo](https://github.com/akashalamin10/github-config/blob/main/1.jpg)
+<div align="center">
 
-Welcome to my GitHub profile! Here's a quick overview about me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b2cbf,100:ff00ea&height=220&section=header&text=AKASH%20ALAMIN&fontSize=54&fontColor=00f0ff&fontAlignY=38&desc=NETRUNNER%20%2F%20ML%20ENGINEER%20%2F%20WEB%20ARCHITECT&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=50&lines=SYSTEM+ONLINE.+IDENTITY+LOADED.;MD.+AL+AMIN+AKASH+%7C+akashalamin10;Machine+Learning+%2B+Deep+Learning;Full-Stack+Web+Developer;Open+to+ML+%26+DL+collaboration" alt="typing" />
 
-## 🚀 About Me
+<br/>
 
-- **👀 Interests**: Problem Solving, Machine Learning (ML), Deep Learning (DL)
-- **🌱 Currently Learning**: Machine Learning
-- **💞️ Collaboration**: Open to collaborating on ML & DL projects
-- **📫 How to reach me**: [akash.alamin.cse@gmail.com](mailto:akash.alamin.cse@gmail.com)
-- **😄 Pronouns**: He/Him
-- **⚡ Fun fact**: I am also a **Web Developer**!
+<img src="https://komarev.com/ghpvc/?username=akashalamin10&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/akashalamin10?label=FOLLOWERS&style=for-the-badge&color=7b2cbf" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=for-the-badge" alt="status"/>
+<img src="https://img.shields.io/badge/PRONOUNS-HE%2FHIM-ff00ea?style=for-the-badge" alt="pronouns"/>
 
----
+<br/><br/>
 
-## 🧠 Skills & Expertise
+<img src="https://raw.githubusercontent.com/akashalamin10/github-config/main/1.jpg" width="180" alt="Akash"/>
 
-| Category          | Skills                                    |
-|-------------------|-------------------------------------------|
-| **Programming**    | Python, JavaScript, C++                   |
-| **Machine Learning** | TensorFlow, Keras, Scikit-learn           |
-| **Web Development** | HTML, CSS, React, Node.js                 |
-| **Database**        | MySQL, MongoDB, Firebase                  |
-| **Tools & Libraries** | Git, Docker, Jupyter, VS Code            |
+</div>
 
----
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  NODE        akashalamin10                                       │
+│  HANDLE      MD. AL AMIN AKASH                                   │
+│  CLASS       Machine Learning Engineer  ·  Web Developer         │
+│  CORE        Problem Solving · ML · DL · Full-Stack              │
+│  PROTOCOL    Open collaboration on ML & DL systems               │
+│  UPLINK      akash.alamin.cse@gmail.com                          │
+│  TAGLINE     Let's Go For Moon!                                  │
+└──────────────────────────────────────────────────────────────────┘
+[████████████████████]  PYTHON        ADVANCED
+[██████████████████░░]  JAVASCRIPT    STRONG
+[████████████████░░░░]  C++           SOLID
+[████████████████████]  ML / DL       FOCUS
+[██████████████████░░]  REACT / NODE  STRONG
++ ACTIVE  Machine Learning
+    • Supervised Learning
+    • Unsupervised Learning
+    • Deep Learning
+    • Natural Language Processing
+    • Reinforcement Learning
 
-## 📚 Current Learning Focus
-
-- **Machine Learning**:
-  - Supervised Learning
-  - Unsupervised Learning
-  - Deep Learning
-  - Natural Language Processing (NLP)
-  - Reinforcement Learning
-
-- **Web Development**:
-  - Advanced React & Node.js
-  - Serverless Architectures
-  - RESTful APIs
-
----
-
-
-
----
-
-## 📈 GitHub Stats
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashalamin10&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🔗 Links
-
-- [LinkedIn](https://www.linkedin.com/in/akashalamin)
-- [Personal Portfolio](https://www.akashalamin.dev)
-- [Twitter](https://twitter.com/akashalamin10)
-
----
-
-## 🌟 Fun Fact
-
-Besides coding, I am passionate about:
-- Solving puzzles and brain teasers
-- Exploring AI ethics and its future impact
-- Building side projects and contributing to open-source!
-
----
-
-## 📫 How to Reach Me
-
-You can reach out to me via the following ways:
-- **Email**: [akash.alamin.cse@gmail.com](mailto:akash.alamin.cse@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/akashalamin)
-- **Twitter**: [Twitter Profile](https://twitter.com/akashalamin10)
-
----
-
-Thanks for visiting my GitHub profile! Feel free to connect and collaborate. 😊
++ ACTIVE  Web Systems
+    • Advanced React & Node.js
+    • Serverless architectures
+    • RESTful APIs
